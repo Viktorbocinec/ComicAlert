@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'CustomFont'; /* Replace 'CustomFont' with your desired font name */
+    src: url('./LED-Dot-Matrix.ttf') format('truetype'); /* Adjust the font file path and format accordingly */
+    /* Add additional font formats (e.g., woff, woff2) if your font supports them */
+  }

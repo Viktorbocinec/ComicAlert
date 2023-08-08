@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "rsa",
+      "type": "com.viktor.comicalert.security.RsaKeyProperties",
+      "sourceType": "com.viktor.comicalert.security.RsaKeyProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rsa.private-key",
+      "type": "java.security.interfaces.RSAPrivateKey",
+      "sourceType": "com.viktor.comicalert.security.RsaKeyProperties"
+    },
+    {
+      "name": "rsa.public-key",
+      "type": "java.security.interfaces.RSAPublicKey",
+      "sourceType": "com.viktor.comicalert.security.RsaKeyProperties"
+    }
+  ],
+  "hints": []
+}
